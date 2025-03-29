@@ -1,2 +1,2 @@
 print ("hola amigo")
-print ("hola amigo")
+print ("AALG")
